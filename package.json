@@ -1,7 +1,7 @@
 {
   "name": "mongoose_skeleton",
   "version": "1.0.0",
-  "description": "",
+  "description": "HW17",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,11 +18,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://williamntrout.github.io/WorkOutTracker/"
+    "url": "git+https://github.com/williamntrout/WorkOutTracker"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://williamntrout.github.io/WorkOutTracker/issues"
+    "url": "https://github.com/williamntrout/WorkOutTracker/issues"
   },
-  "homepage": "https://williamntrout.github.io/WorkOutTracker/#readme"
+  "homepage": "https://github.com/williamntrout/WorkOutTracker#readme"
 }
