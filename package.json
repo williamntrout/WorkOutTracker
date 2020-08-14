@@ -15,5 +15,14 @@
     "express": "^4.16.3",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://williamntrout.github.io/WorkOutTracker/"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://williamntrout.github.io/WorkOutTracker/issues"
+  },
+  "homepage": "https://williamntrout.github.io/WorkOutTracker/#readme"
 }
